@@ -1,10 +1,10 @@
 # Project Title
 
-JavaScript Slice Method
+JavaScript Concat Method
 
 ## Description
 
-JavaScript Slice Method Examples.
+JavaScript Concat Method Examples.
 
 ## Getting Started
 
