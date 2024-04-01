@@ -6,6 +6,6 @@ const arrayLikeObject = {
   [Symbol.isConcatSpreadable]: true
 };
 
-const array = Array.prototype.concat(arrayLikeObject, 'four', 'five');
+const array = Array.prototype.concat.call(arrayLikeObject, 'four', 'five');
 
 console.log(array);
